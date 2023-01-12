@@ -12,4 +12,15 @@ You use get something like this. (Forget all the other folders you don't have, t
 - So once the main window appear you will see something like this.
 ![image](https://user-images.githubusercontent.com/91338053/212170783-6dcccc05-f679-4b50-9179-5a69a4077524.png)  
 Yes is an incredible main menu I know, now shut up cause is not the important thing.
-- As you can see, you have four options to pick, Youtube Download app, a Face Tracking model, an Audio to Text model and a Chess Board if you want to play with stupid bots that will sacrifice their queen without reasons.
+- As you can see, you have four options to pick, Youtube Download app, a Face Tracking model, an Audio to Text model and a Chess Board if you want to play with stupid bots that will sacrifice their queen without reasons.  
+
+### Youtube Download
+As it says you can download any video from youtube to audio so you don't have to pay for Spotify. This is what you will get.
+![image](https://user-images.githubusercontent.com/91338053/212171725-8c54494c-78ab-4556-b897-13b3f1076ef4.png)  
+You may think this does not work, I would think the same just looking at it, but it does, yes I'm surprised as well.  
+Nothing more special, it does what is says.  
+
+### Face Tracking
+It's a model that opens your webcam or the video device you have and looks for faces and draws a squre on its position. Like this.
+image here
+It does work well and with better cameras more. Just use GPU because if you try with cpu it's gonna be so laggy and it won't destroy your PC.
