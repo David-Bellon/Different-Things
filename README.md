@@ -4,3 +4,7 @@
 - Then with everything downloaded create a folder named models and put all the files from the drive link into that folder.
 You use get something like this. (Forget all the other folders you don't have, they are venvs folder that you will have in a moment).
 ![image](https://user-images.githubusercontent.com/91338053/212155653-807a4492-24d3-4a0b-a0fb-f3e97941f4e0.png)
+- Next install the requirements and if you want create a virtual env before so you will have the same folders.
+- Extra thing: You may have problems with hugging face library or something. If that is the case just create a folder name cache (doesn't need to be where mine you can just create one in the C:\\User\.cache and it's fine) and change the path to that.  
+
+## Usage
