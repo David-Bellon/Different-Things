@@ -12,3 +12,4 @@ You use get something like this. (Forget all the other folders you don't have, t
 - So once the main window appear you will see something like this.
 ![image](https://user-images.githubusercontent.com/91338053/212170783-6dcccc05-f679-4b50-9179-5a69a4077524.png)  
 Yes is an incredible main menu I know, now shut up cause is not the important thing.
+- As you can see, you have four options to pick, Youtube Download app, a Face Tracking model, an Audio to Text model and a Chess Board if you want to play with stupid bots that will sacrifice their queen without reasons.
