@@ -8,3 +8,5 @@ You use get something like this. (Forget all the other folders you don't have, t
 - Extra thing: You may have problems with hugging face library or something. If that is the case just create a folder name cache (doesn't need to be where mine you can just create one in the C:\\User\.cache and it's fine) and change the path to that.  
 
 ## Usage
+- As said before only run the main_gui.py file inside the gui folder. The first time it will take more time than usual, this is normal because is importing everything as well as if it's the first time you run the models and you have a GPU that use CUDA it will take time the first time.  
+- So once the main window appear you will se something like this.
