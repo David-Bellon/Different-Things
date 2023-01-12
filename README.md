@@ -28,7 +28,7 @@ It does work well and with better cameras more. Just use GPU because if you try 
 ### Audio to Text
 Pick the file that you want, has to be a mp3, mp4 or wav, select the model and then click transcribe and it will give you a pop up window with the text of your audio. The bigger the model you select the better the quality but the more VRAM it requires. Take a look.
 ![image](https://user-images.githubusercontent.com/91338053/212174179-a6074ef7-0ad7-4351-90ed-27ca28c5cce3.png)  
-As you can see in the image if lets you record your audio up to ten second (if you want to change this duration go to the record_audio.py and change the seconds var to any number you want). And then it will give you the same pop up window with the text and the interval of the phrase.
+As you can see in the image if lets you record your audio up to ten second (if you want to change this duration go to the record_audio.py and change the seconds var to any number you want). And then it will give you the same pop up window with the text and the interval of the phrase.  
 ![image](https://user-images.githubusercontent.com/91338053/212174850-3226e287-7728-4c4a-b85f-2ace6eb038bb.png)  
 It's cool I know :)
 
