@@ -30,5 +30,14 @@ Pick the file that you want, has to be a mp3, mp4 or wav, select the model and t
 ![image](https://user-images.githubusercontent.com/91338053/212174179-a6074ef7-0ad7-4351-90ed-27ca28c5cce3.png)  
 As you can see in the image if lets you record your audio up to ten second (if you want to change this duration go to the record_audio.py and change the seconds var to any number you want). And then it will give you the same pop up window with the text and the interval of the phrase.  
 ![image](https://user-images.githubusercontent.com/91338053/212174850-3226e287-7728-4c4a-b85f-2ace6eb038bb.png)  
-It's cool I know :)
+It's cool I know :)  
+And yes I know it not a good UI or whatever but I don't care it's just a little thing to show all this things.  
+### Chess
+Well is chess I don't know what you want me to say. You play with whites and a stupid IA tries to do something reasonable. As said before it really bad but thats the only way you are gonna feel good at chess so you are welcome.  
+![image](https://user-images.githubusercontent.com/91338053/212178190-dbccde54-6ffe-47ea-8c16-2a585382608e.png)  
+
+## End
+I don't know how to end this so thats it, different things and some useful some less but yeah, things.  
+Now, get out of here.
+
 
