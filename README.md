@@ -22,7 +22,7 @@ Nothing more special, it does what is says.
 
 ### Face Tracking
 It's a model that opens your webcam or the video device you have and looks for faces and draws a squre on its position. Like this.  
-image here  
+![image](https://user-images.githubusercontent.com/91338053/212297151-62da7e77-28b1-494c-bbea-39b4e1b71853.png)  
 It does work well and with better cameras more. Just use GPU because if you try with cpu it's gonna be so laggy and it won't destroy your PC.
 
 ### Audio to Text
